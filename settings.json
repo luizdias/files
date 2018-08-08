@@ -1,0 +1,21 @@
+{
+    "workbench.activityBar.visible": true,
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.printWidth": 170,
+    "prettier.trailingComma": "all",
+    "prettier.singleQuote": true,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/.history/**": true,
+        "**/.git": true,
+        "**/*.jsbundle": true,
+        "**/*.bundle": true,
+        "**/*_map.txt": true
+    },
+    "search.useIgnoreFiles": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Sublime Monokai",
+    // "git.path": "/usr/bin/git"
+    "editor.formatOnSave": true,
+}
